@@ -9,6 +9,14 @@
          ],
          "x":549,
          "y":549
+      },
+      {
+         "name":"reimu",
+         "sources":[
+            "https://i.imgur.com/ddhXbpa.png"
+         ],
+         "x":576,
+         "y":429
       }
    ],
    "whitelist":[
