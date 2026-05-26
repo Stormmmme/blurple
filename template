@@ -17,7 +17,17 @@
          ],
          "x":576,
          "y":450
+      },
+      {
+         "name":"Yukkuri Ran",
+         "sources":[
+            "https://i.imgur.com/ybiAiet.png"
+         ],
+         "x":556,
+         "y":390
       }
+
+
    ],
    "whitelist":[
       
