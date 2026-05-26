@@ -25,9 +25,15 @@
          ],
          "x":556,
          "y":390
+      },
+      {
+         "name":"Kutakers",
+         "sources":[
+            "https://i.imgur.com/3HZI23b.png"
+         ],
+         "x":500,
+         "y":575
       }
-
-
    ],
    "whitelist":[
       
