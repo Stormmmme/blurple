@@ -69,18 +69,26 @@
       {
          "name":"Cheval Grand fishmken (Oh dear the uma is invading)",
          "sources":[
-            "https://files.catbox.moe/8uryt4.png"
+            "https://files.catbox.moe/k90auw.webp"
          ],
-         "x":206,
+         "x":141,
          "y":123
       },
       {
          "name":"Mima in Touhou 21 trust!",
          "sources":[
-            "https://files.catbox.moe/nvv5r1.webp"
+            "https://files.catbox.moe/d7hh8b.png"
          ],
          "x":524,
          "y":14
+      },
+      {
+         "name":"Some uma idk (Kitasan)",
+         "sources":[
+            "https://files.catbox.moe/fjxsap.png"
+         ],
+         "x":565,
+         "y":491
       }
    ],
    "whitelist":[
