@@ -67,12 +67,20 @@
          "y":536
       },
       {
-         "name":"Cheval Grand (Oh dear the uma is invading)",
+         "name":"Cheval Grand fishmken (Oh dear the uma is invading)",
          "sources":[
             "https://files.catbox.moe/8uryt4.png"
          ],
          "x":206,
          "y":123
+      },
+      {
+         "name":"Mima in Touhou 21 trust!",
+         "sources":[
+            "https://files.catbox.moe/nvv5r1.webp"
+         ],
+         "x":525,
+         "y":15
       }
    ],
    "whitelist":[
