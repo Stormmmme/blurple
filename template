@@ -49,6 +49,22 @@
          ],
          "x":678,
          "y":483
+      },
+      {
+         "name":"Narumimimimimimimimimimimi",
+         "sources":[
+            "https://files.catbox.moe/4hwsoi.png"
+         ],
+         "x":657,
+         "y":120
+      }
+      {
+         "name":"I love Aunn Komano",
+         "sources":[
+            "https://files.catbox.moe/a46ubw.png"
+         ],
+         "x":723,
+         "y":536
       }
    ],
    "whitelist":[
