@@ -39,8 +39,8 @@
          "sources":[
             "https://files.catbox.moe/pj928j.png"
          ],
-         "x":646,
-         "y":468
+         "x":708,
+         "y":500
       },
       {
          "name":"Faction tag",
@@ -48,7 +48,7 @@
             "https://files.catbox.moe/f45sef.png"
          ],
          "x":678,
-         "y":482
+         "y":483
       }
    ],
    "whitelist":[
