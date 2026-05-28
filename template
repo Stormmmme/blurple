@@ -65,6 +65,14 @@
          ],
          "x":719,
          "y":536
+      },
+      {
+         "name":"Cheval Grand (Oh dear the uma is invading)",
+         "sources":[
+            "https://files.catbox.moe/8uryt4.png"
+         ],
+         "x":123,
+         "y":206
       }
    ],
    "whitelist":[
